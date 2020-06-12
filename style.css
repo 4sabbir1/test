@@ -1,0 +1,61 @@
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.background {
+	background-color: #3b5999;
+	overflow: hidden;
+}
+
+.container {
+	width:80%;
+	margin: auto;
+	
+}
+
+.logo {
+	float: left;
+	
+}
+
+
+.login-area {
+	float: right;
+	
+}
+
+.email-area,.password-area,.submit-area{
+
+float:left;
+
+overflow:hidden;
+
+margin-top: 10px;
+
+}
+
+.email-area label,.password-area label{
+
+display:block;
+
+margin-bottom:5px;
+
+color: white;
+
+
+
+}
+
+.submit-area input {
+	
+	margin-top:25px;
+	color: white;
+	background: green;
+	
+}
+
+
+
+
